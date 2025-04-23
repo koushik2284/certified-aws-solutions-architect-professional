@@ -36,7 +36,7 @@
 - They are JSON documents
 - They can be attached to the root of the organization, to one or more OUs or to individual AWS accounts
 - SCPs inherit down through the organization tree
-- The Management Account is special: even if it has SCPs attached (directly or through an OU) it wont be affected by the SCP
+- **The Management Account is special: even if it has SCPs attached (directly or through an OU) it wont be affected by the SCP**
 - SCPs are account permission boundaries:
     - They limit what the account (including the root user of the account) can do
     - We can never restrict a root user from an account, but we can restrict the account itself, hence these restrictions will apply to the root user as well
