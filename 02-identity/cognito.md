@@ -12,5 +12,9 @@
 
 ## Cognito concepts
 
+![Cognito Concepts](images/CognitoUserPool.png)
+
+![Cognito Concepts](images/CognitoIdentityPool.png)
+
 ![Cognito Concepts](images/CognitoConcepts.png)
 
