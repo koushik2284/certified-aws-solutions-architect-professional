@@ -51,4 +51,4 @@
     - We associate the route table with only the attachments we would want to communicate with each other
     - We create another route and associate it to the attachment we don't want to communicate with each other. We configure other attachments to propagate to this route table
  
-!(images/TGW_ADVANCED.png)
+![TGW ADVANCED](images/TGW_ADVANCED.png)
