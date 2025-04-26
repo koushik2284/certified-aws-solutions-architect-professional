@@ -17,6 +17,8 @@
 - Pay as you use service: per GB of data transferred
 - The DataSync agent runs on a virtualization platform such as VMWare
 
+![DataSync Architecture](images/DataSync.png)
+
 ## DataSync Components
 
 - Task: a job within DataSync, defines what is being synced, how quickly, from where and to where
