@@ -93,6 +93,7 @@
     - Cross Region Read Replicas for RDS: asynchronous replication but not done on the storage layer
 - DR Architecture - Databases:
     ![DR Architecture - Databases](images/DRArchitectureDatabases.png)
+    ![DR Architecture - Global Database](images/DB_Global.png)
 
 ## DR Architecture - Networking
 
@@ -107,7 +108,7 @@
     - Multiple interface endpoints can be deployed into different AZs
 - DR Architecture - Networking:
     ![DR Architecture - Networking](images/DRArchitectureNetworking.png)
-    ![DR Architecture - Global Database](images/DB_Global.png)
+    
   
 - Global Networking:
     - Route53 can route globally to different regions (failover routing)
