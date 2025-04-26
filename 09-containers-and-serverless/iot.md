@@ -11,7 +11,7 @@
 - Device messages are sent JSON format, using MQTT protocols
 - AWS IoT provides rules: event-driven integration with other AWS Services
 - AWS IoT architecture:
-    [AWS IoT architecture](images/ElasticTranscoder&AWSIoT.png)
+    ![AWS IoT architecture](images/IOT.png)
 
 ## AWS IoT Device Management
 
@@ -34,6 +34,8 @@
 - Greengrass provides local device shadows which are synced back to AWS
 - Allows messaging using MQTT
 - Allows local hardware access for Lambda functions
+
+   ![Greengrass](images/Greengrass.png)
 
 ## AWS IoT Analytics
 
