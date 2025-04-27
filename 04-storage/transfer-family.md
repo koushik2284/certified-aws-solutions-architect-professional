@@ -36,6 +36,8 @@
         - Transfer Family provides a static IP for it
         - SG/NACLs are supported
 
+ ![TrasnferFamily](images/TrasnferFamily.png)
+
 ## Other Features
 
 - It is multi-AZ => resilient and scalable
